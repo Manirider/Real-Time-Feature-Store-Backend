@@ -4,6 +4,17 @@ Production-grade, containerized **real-time online feature store** backend using
 
 ---
 
+## 🌐 Live Demo & Interactive Documentation
+
+The service is currently deployed with public endpoints:
+
+- **Interactive Swagger API Docs:** [https://exceed-alexandria-cardiff-curtis.trycloudflare.com/docs](https://exceed-alexandria-cardiff-curtis.trycloudflare.com/docs)
+- **Alternative ReDoc UI:** [https://exceed-alexandria-cardiff-curtis.trycloudflare.com/redoc](https://exceed-alexandria-cardiff-curtis.trycloudflare.com/redoc)
+- **Health Check Endpoint:** [https://exceed-alexandria-cardiff-curtis.trycloudflare.com/health](https://exceed-alexandria-cardiff-curtis.trycloudflare.com/health)
+- **Live User Feature Lookup:** [https://exceed-alexandria-cardiff-curtis.trycloudflare.com/features/user_00000001](https://exceed-alexandria-cardiff-curtis.trycloudflare.com/features/user_00000001)
+
+---
+
 ## Overview
 
 This project implements a complete real-time feature store backend designed to serve pre-computed ML feature vectors at low latency for online inference. It provides:
